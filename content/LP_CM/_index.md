@@ -34,7 +34,7 @@ about:
   url: https://www.youtube.com/embed/Gs_IBLIYvAs
   description: Candidatez dès maintenant...
   href: https://www.youtube.com/embed/Gs_IBLIYvAs
-  image: "/uploads/nws_youtube_web_dev.jpg"
+  image: "/uploads/nws_youtube_web_design.jpg"
   description2: "...et préparez dès aujourd’hui votre avenir professionnel"
 skills:
   enable: true
