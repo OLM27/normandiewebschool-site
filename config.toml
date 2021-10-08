@@ -1,4 +1,4 @@
-baseURL = "https://normandiewebschool.fr"
+baseURL = "https://wonderful-easley-42e047.netlify.app"
 enableRobotsTXT = true
 languageCode = "fr-fr"
 summaryLength = "10"
