@@ -34,7 +34,7 @@ about:
   description: Sarah Kugel et Simon Lecoeur, tous deux intervenants à la Normandie
     Web School, vous explique en quoi consiste la filière Web Design.
   href: https://www.youtube.com/embed/9TvFKWtQV2E
-  image: "/uploads/nws_youtube_web_design.png"
+  image: "/uploads/nws_youtube_web_design.jpg"
 skills:
   enable: true
   title: Les Compétences
