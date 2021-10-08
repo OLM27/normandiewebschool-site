@@ -8,7 +8,7 @@ description: Si vous aimez la création, l'image, la video et le web, venez appr
 banner:
   logo: "/uploads/logo-design.png"
   title: Filière <span class="font-weight-medium"> Communication graphique </span>
-  image: "/uploads/web-design.jpg"
+  image: "/uploads/web-design.jpeg"
   description: <p>Ce titre prépare à concevoir la forme visuelle de messages dans
     les différents domaines du graphisme, de l’édition et de la publicité, imprimés
     ou numériques. Il est destiné aux étudiants qui veulent se former aux métiers
